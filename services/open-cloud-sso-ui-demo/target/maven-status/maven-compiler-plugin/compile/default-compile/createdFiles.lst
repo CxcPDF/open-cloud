@@ -1,0 +1,3 @@
+com/opencloud/sso/ui/controller/IndexController.class
+com/opencloud/sso/ui/SSOApplication.class
+com/opencloud/sso/ui/configuration/WebSecurityConfig.class

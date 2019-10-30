@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/open-cloud-common-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/open-cloud-common-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/open-cloud-java-sdk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/open-cloud-tenant-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docs/config/common.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/platform" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/open-cloud-api-spring-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/open-cloud-api-zuul-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/open-cloud-base-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/open-cloud-base-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/open-cloud-generator-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/open-cloud-uaa-admin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/open-cloud-uaa-portal-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/open-cloud-bpm-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/open-cloud-bpm-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/open-cloud-msg-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/open-cloud-msg-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/open-cloud-sba-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/open-cloud-sso-ui-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/open-cloud-task-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/open-cloud-task-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/open-cloud-tenant-demo" charset="UTF-8" />
+  </component>
+</project>

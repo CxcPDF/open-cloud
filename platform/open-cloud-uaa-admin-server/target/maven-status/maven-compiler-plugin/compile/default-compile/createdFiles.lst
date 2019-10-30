@@ -1,0 +1,12 @@
+com/opencloud/uaa/admin/server/configuration/AuthorizationServerConfiguration.class
+com/opencloud/uaa/admin/server/service/feign/BaseUserServiceClient.class
+com/opencloud/uaa/admin/server/service/feign/BaseAuthorityServiceClient.class
+com/opencloud/uaa/admin/server/controller/LoginController.class
+com/opencloud/uaa/admin/server/UaaAdminApplication.class
+com/opencloud/uaa/admin/server/configuration/ResourceServerConfiguration$LogoutSuccessHandler.class
+com/opencloud/uaa/admin/server/service/impl/UserDetailsServiceImpl.class
+com/opencloud/uaa/admin/server/configuration/WebSecurityConfiguration.class
+com/opencloud/uaa/admin/server/service/feign/BaseAppServiceClient.class
+com/opencloud/uaa/admin/server/configuration/ResourceServerConfiguration.class
+com/opencloud/uaa/admin/server/service/impl/ClientDetailsServiceImpl.class
+com/opencloud/uaa/admin/server/controller/IndexController.class

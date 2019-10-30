@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="open-cloud-sso-ui-demo" />
+        <module name="open-cloud-uaa-admin-server" />
+        <module name="open-cloud-msg-client" />
+        <module name="open-cloud-sba-server" />
+        <module name="open-cloud-common-starter" />
+        <module name="open-cloud-task-client" />
+        <module name="open-cloud-base-client" />
+        <module name="open-cloud-msg-server" />
+        <module name="open-cloud-tenant-demo" />
+        <module name="open-cloud-java-sdk" />
+        <module name="open-cloud-api-zuul-server" />
+        <module name="open-cloud-tenant-starter" />
+        <module name="open-cloud-base-server" />
+        <module name="open-cloud-uaa-portal-server" />
+        <module name="open-cloud-common-core" />
+        <module name="open-cloud-task-server" />
+        <module name="open-cloud-api-spring-server" />
+        <module name="open-cloud-bpm-server" />
+        <module name="open-cloud-bpm-client" />
+        <module name="open-cloud-generator-server" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

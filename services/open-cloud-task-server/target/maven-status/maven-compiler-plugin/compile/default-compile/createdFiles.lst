@@ -1,0 +1,11 @@
+com/opencloud/task/server/mapper/SchedulerJobLogsMapper.class
+com/opencloud/task/server/controller/TaskController.class
+com/opencloud/task/server/service/feign/EmailServiceClient.class
+com/opencloud/task/server/TaskApplication.class
+com/opencloud/task/server/service/TaskJobLogsService.class
+com/opencloud/task/server/job/HttpExecuteJob.class
+com/opencloud/task/server/configuration/ResourceServerConfiguration.class
+com/opencloud/task/server/service/impl/TaskJobLogsServiceImpl.class
+com/opencloud/task/server/service/TaskService.class
+com/opencloud/task/server/listenter/JobLogsListener.class
+com/opencloud/task/server/configuration/SchedulerConfiguration.class

@@ -1,0 +1,15 @@
+com/opencloud/msg/client/constatns/MsgConstants.class
+com/opencloud/msg/client/model/entity/EmailConfig.class
+com/opencloud/msg/client/exchange/DelayExchangeBuilder.class
+com/opencloud/msg/client/model/BaseMessage.class
+com/opencloud/msg/client/model/entity/EmailLogs.class
+com/opencloud/msg/client/model/entity/EmailTemplate.class
+com/opencloud/msg/client/service/IWebHookClient.class
+com/opencloud/msg/client/service/ISmsClient.class
+com/opencloud/msg/client/model/SmsMessage.class
+com/opencloud/msg/client/service/IPushClient.class
+com/opencloud/msg/client/model/entity/WebHookLogs.class
+com/opencloud/msg/client/model/EmailTplMessage.class
+com/opencloud/msg/client/model/WebHookMessage.class
+com/opencloud/msg/client/service/IEmailClient.class
+com/opencloud/msg/client/model/EmailMessage.class

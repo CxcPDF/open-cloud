@@ -1,0 +1,15 @@
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-msg-client/src/main/java/com/opencloud/msg/client/model/EmailTplMessage.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-msg-client/src/main/java/com/opencloud/msg/client/service/ISmsClient.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-msg-client/src/main/java/com/opencloud/msg/client/constatns/MsgConstants.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-msg-client/src/main/java/com/opencloud/msg/client/model/entity/EmailLogs.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-msg-client/src/main/java/com/opencloud/msg/client/model/entity/EmailTemplate.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-msg-client/src/main/java/com/opencloud/msg/client/exchange/DelayExchangeBuilder.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-msg-client/src/main/java/com/opencloud/msg/client/model/EmailMessage.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-msg-client/src/main/java/com/opencloud/msg/client/model/WebHookMessage.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-msg-client/src/main/java/com/opencloud/msg/client/service/IEmailClient.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-msg-client/src/main/java/com/opencloud/msg/client/model/entity/WebHookLogs.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-msg-client/src/main/java/com/opencloud/msg/client/service/IPushClient.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-msg-client/src/main/java/com/opencloud/msg/client/model/SmsMessage.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-msg-client/src/main/java/com/opencloud/msg/client/model/entity/EmailConfig.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-msg-client/src/main/java/com/opencloud/msg/client/model/BaseMessage.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-msg-client/src/main/java/com/opencloud/msg/client/service/IWebHookClient.java

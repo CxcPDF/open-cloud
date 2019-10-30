@@ -1,0 +1,10 @@
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-bpm-server/src/main/java/com/opencloud/bpm/server/service/impl/ProcessServiceImpl.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-bpm-server/src/main/java/com/opencloud/bpm/server/configuration/ProcessEngineConfiguration.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-bpm-server/src/main/java/com/opencloud/bpm/server/service/impl/ProcessEngineService.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-bpm-server/src/main/java/com/opencloud/bpm/server/configuration/ResourceServerConfiguration.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-bpm-server/src/main/java/com/opencloud/bpm/server/BpmApplication.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-bpm-server/src/main/java/com/opencloud/bpm/server/listener/UserTaskListener.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-bpm-server/src/main/java/com/opencloud/bpm/server/listener/TaskCompletedListener.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-bpm-server/src/main/java/com/opencloud/bpm/server/service/ProcessService.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-bpm-server/src/main/java/com/opencloud/bpm/server/listener/ServiceTaskListener.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-bpm-server/src/main/java/com/opencloud/bpm/server/listener/TaskCreatedListener.java

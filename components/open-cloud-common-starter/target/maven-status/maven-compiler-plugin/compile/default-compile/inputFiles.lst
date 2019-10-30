@@ -1,0 +1,8 @@
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/components/open-cloud-common-starter/src/main/java/com/opencloud/autoconfigure/JacksonAutoConfiguration.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/components/open-cloud-common-starter/src/main/java/com/opencloud/autoconfigure/FeignSpringFormEncoder.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/components/open-cloud-common-starter/src/main/java/com/opencloud/autoconfigure/AutoConfiguration.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/components/open-cloud-common-starter/src/main/java/com/opencloud/autoconfigure/MqAutoConfiguration.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/components/open-cloud-common-starter/src/main/java/com/opencloud/autoconfigure/FeignAutoConfiguration.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/components/open-cloud-common-starter/src/main/java/com/opencloud/autoconfigure/SwaggerAutoConfiguration.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/components/open-cloud-common-starter/src/main/java/com/opencloud/autoconfigure/WebMvcConfiguration.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/components/open-cloud-common-starter/src/main/java/com/opencloud/autoconfigure/RedisCacheAutoConfiguration.java

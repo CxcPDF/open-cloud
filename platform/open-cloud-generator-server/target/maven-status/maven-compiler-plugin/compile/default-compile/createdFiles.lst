@@ -1,0 +1,11 @@
+com/opencloud/generator/server/GeneratorApplication.class
+com/opencloud/generator/server/controller/DownLoadController.class
+com/opencloud/generator/server/configuration/ResourceServerConfiguration.class
+com/opencloud/generator/server/service/GeneratorService$1.class
+com/opencloud/generator/server/controller/GenerateController.class
+com/opencloud/generator/server/service/GeneratorService$2.class
+com/opencloud/generator/server/service/GeneratorService$3.class
+com/opencloud/generator/server/service/GeneratorService.class
+com/opencloud/generator/server/service/GeneratorService$4.class
+com/opencloud/generator/server/utils/ZipUtil.class
+com/opencloud/generator/server/service/GenerateConfig.class

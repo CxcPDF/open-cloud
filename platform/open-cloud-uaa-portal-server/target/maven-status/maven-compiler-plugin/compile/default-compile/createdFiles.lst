@@ -1,0 +1,14 @@
+com/opencloud/portal/uaa/server/service/impl/ClientDetailsServiceImpl.class
+com/opencloud/portal/uaa/server/controller/IndexController.class
+com/opencloud/portal/uaa/server/service/impl/QQAuthServiceImpl.class
+com/opencloud/portal/uaa/server/service/impl/WechatAuthServiceImpl.class
+com/opencloud/portal/uaa/server/controller/LoginController.class
+com/opencloud/portal/uaa/server/service/feign/BaseDeveloperServiceClient.class
+com/opencloud/portal/uaa/server/configuration/AuthorizationServerConfiguration.class
+com/opencloud/portal/uaa/server/service/feign/BaseAppServiceClient.class
+com/opencloud/portal/uaa/server/service/impl/GiteeAuthServiceImpl.class
+com/opencloud/portal/uaa/server/configuration/WebSecurityConfiguration.class
+com/opencloud/portal/uaa/server/configuration/ResourceServerConfiguration$LogoutSuccessHandler.class
+com/opencloud/portal/uaa/server/service/impl/UserDetailsServiceImpl.class
+com/opencloud/portal/uaa/server/configuration/ResourceServerConfiguration.class
+com/opencloud/portal/uaa/server/UaaPortalApplication.class

@@ -1,0 +1,11 @@
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-task-server/src/main/java/com/opencloud/task/server/listenter/JobLogsListener.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-task-server/src/main/java/com/opencloud/task/server/controller/TaskController.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-task-server/src/main/java/com/opencloud/task/server/configuration/ResourceServerConfiguration.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-task-server/src/main/java/com/opencloud/task/server/TaskApplication.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-task-server/src/main/java/com/opencloud/task/server/configuration/SchedulerConfiguration.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-task-server/src/main/java/com/opencloud/task/server/service/TaskService.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-task-server/src/main/java/com/opencloud/task/server/service/TaskJobLogsService.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-task-server/src/main/java/com/opencloud/task/server/service/impl/TaskJobLogsServiceImpl.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-task-server/src/main/java/com/opencloud/task/server/mapper/SchedulerJobLogsMapper.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-task-server/src/main/java/com/opencloud/task/server/job/HttpExecuteJob.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/services/open-cloud-task-server/src/main/java/com/opencloud/task/server/service/feign/EmailServiceClient.java

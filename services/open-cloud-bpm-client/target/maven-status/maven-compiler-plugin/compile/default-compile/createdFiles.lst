@@ -1,0 +1,3 @@
+com/opencloud/bpm/client/model/TaskOperate.class
+com/opencloud/bpm/client/constants/BpmConstants.class
+com/opencloud/bpm/client/constants/TaskOperateType.class

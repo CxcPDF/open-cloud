@@ -1,0 +1,13 @@
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/platform/open-cloud-uaa-portal-server/src/main/java/com/opencloud/portal/uaa/server/service/feign/BaseDeveloperServiceClient.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/platform/open-cloud-uaa-portal-server/src/main/java/com/opencloud/portal/uaa/server/service/impl/GiteeAuthServiceImpl.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/platform/open-cloud-uaa-portal-server/src/main/java/com/opencloud/portal/uaa/server/configuration/AuthorizationServerConfiguration.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/platform/open-cloud-uaa-portal-server/src/main/java/com/opencloud/portal/uaa/server/service/impl/WechatAuthServiceImpl.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/platform/open-cloud-uaa-portal-server/src/main/java/com/opencloud/portal/uaa/server/controller/LoginController.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/platform/open-cloud-uaa-portal-server/src/main/java/com/opencloud/portal/uaa/server/service/impl/UserDetailsServiceImpl.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/platform/open-cloud-uaa-portal-server/src/main/java/com/opencloud/portal/uaa/server/configuration/WebSecurityConfiguration.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/platform/open-cloud-uaa-portal-server/src/main/java/com/opencloud/portal/uaa/server/UaaPortalApplication.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/platform/open-cloud-uaa-portal-server/src/main/java/com/opencloud/portal/uaa/server/configuration/ResourceServerConfiguration.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/platform/open-cloud-uaa-portal-server/src/main/java/com/opencloud/portal/uaa/server/service/impl/ClientDetailsServiceImpl.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/platform/open-cloud-uaa-portal-server/src/main/java/com/opencloud/portal/uaa/server/controller/IndexController.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/platform/open-cloud-uaa-portal-server/src/main/java/com/opencloud/portal/uaa/server/service/impl/QQAuthServiceImpl.java
+/Users/dunfu/data/Code/Java/MicroService/open-cloud/platform/open-cloud-uaa-portal-server/src/main/java/com/opencloud/portal/uaa/server/service/feign/BaseAppServiceClient.java

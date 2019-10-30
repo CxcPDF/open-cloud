@@ -1,0 +1,10 @@
+com/opencloud/bpm/server/configuration/ResourceServerConfiguration.class
+com/opencloud/bpm/server/listener/TaskCreatedListener.class
+com/opencloud/bpm/server/listener/ServiceTaskListener.class
+com/opencloud/bpm/server/service/impl/ProcessServiceImpl.class
+com/opencloud/bpm/server/listener/UserTaskListener.class
+com/opencloud/bpm/server/listener/TaskCompletedListener.class
+com/opencloud/bpm/server/service/ProcessService.class
+com/opencloud/bpm/server/configuration/ProcessEngineConfiguration.class
+com/opencloud/bpm/server/service/impl/ProcessEngineService.class
+com/opencloud/bpm/server/BpmApplication.class

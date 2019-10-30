@@ -1,0 +1,22 @@
+server:
+    port: 8849
+spring:
+    application:
+        name: open-cloud-sba-server
+    cloud:
+        nacos:
+            config:
+                namespace: 
+                refreshable-dataids: common.properties
+                server-addr: 127.0.0.1:8848
+                shared-dataids: common.properties
+            discovery:
+                namespace: 
+                server-addr: 127.0.0.1:8848
+                register-enabled: false
+    profiles:
+        active: test
+    security:
+      user:
+        name: sba
+        password: 123456

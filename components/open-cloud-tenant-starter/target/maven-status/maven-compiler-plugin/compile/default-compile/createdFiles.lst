@@ -1,0 +1,8 @@
+com/opencloud/tenant/datasource/DynamicDataSourceAspect.class
+META-INF/spring-configuration-metadata.json
+com/opencloud/tenant/configuration/OpenTenantProperties.class
+com/opencloud/tenant/configuration/DynamicDataSourceConfiguration.class
+com/opencloud/tenant/interceptor/MyBatisInterceptor.class
+com/opencloud/tenant/datasource/DynamicRoutingDataSource.class
+com/opencloud/tenant/datasource/DynamicDataSourceContextHolder$1.class
+com/opencloud/tenant/datasource/DynamicDataSourceContextHolder.class

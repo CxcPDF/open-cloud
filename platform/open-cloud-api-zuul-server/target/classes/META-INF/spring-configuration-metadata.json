@@ -1,0 +1,63 @@
+{
+  "groups": [
+    {
+      "name": "management.endpoint.open",
+      "type": "com.opencloud.gateway.zuul.server.actuator.ApiEndpoint",
+      "sourceType": "com.opencloud.gateway.zuul.server.actuator.ApiEndpoint"
+    },
+    {
+      "name": "opencloud.api",
+      "type": "com.opencloud.gateway.zuul.server.configuration.ApiProperties",
+      "sourceType": "com.opencloud.gateway.zuul.server.configuration.ApiProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "management.endpoint.open.enabled",
+      "type": "java.lang.Boolean",
+      "description": "Whether to enable the open endpoint.",
+      "sourceType": "com.opencloud.gateway.zuul.server.actuator.ApiEndpoint",
+      "defaultValue": true
+    },
+    {
+      "name": "opencloud.api.access-control",
+      "type": "java.lang.Boolean",
+      "description": "是否开启动态访问控制",
+      "sourceType": "com.opencloud.gateway.zuul.server.configuration.ApiProperties",
+      "defaultValue": true
+    },
+    {
+      "name": "opencloud.api.api-debug",
+      "type": "java.lang.Boolean",
+      "description": "是否开启接口调试",
+      "sourceType": "com.opencloud.gateway.zuul.server.configuration.ApiProperties",
+      "defaultValue": false
+    },
+    {
+      "name": "opencloud.api.authority-ignores",
+      "type": "java.util.Set<java.lang.String>",
+      "description": "无需鉴权的请求",
+      "sourceType": "com.opencloud.gateway.zuul.server.configuration.ApiProperties"
+    },
+    {
+      "name": "opencloud.api.check-sign",
+      "type": "java.lang.Boolean",
+      "description": "是否开启签名验证",
+      "sourceType": "com.opencloud.gateway.zuul.server.configuration.ApiProperties",
+      "defaultValue": true
+    },
+    {
+      "name": "opencloud.api.permit-all",
+      "type": "java.util.Set<java.lang.String>",
+      "description": "始终放行",
+      "sourceType": "com.opencloud.gateway.zuul.server.configuration.ApiProperties"
+    },
+    {
+      "name": "opencloud.api.sign-ignores",
+      "type": "java.util.Set<java.lang.String>",
+      "description": "签名忽略请求",
+      "sourceType": "com.opencloud.gateway.zuul.server.configuration.ApiProperties"
+    }
+  ],
+  "hints": []
+}
